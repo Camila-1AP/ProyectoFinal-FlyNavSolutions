@@ -3,7 +3,7 @@
 
 - **iTextSharp**: Generación de archivos PDF.
 - **ClosedXML**: Creación y manipulación de archivos Excel.
-- **FontAwesome.Sharp`**: Implementación de iconos visuales.
+- **FontAwesome.Sharp**: Implementación de iconos visuales.
 - **System.Speech**: Activado desde el apartado de Referencias del proyecto para habilitar el sintetizador de voz.
 
 **Herramientas externas:**
